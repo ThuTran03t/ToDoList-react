@@ -5,8 +5,8 @@ import '../src/styles/global.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <div className="App bg-gradient-to-r from-blue-200  to-orange-300 " >
+    {/* <div className="App bg-gradient-to-r from-blue-200  to-orange-300 " > */}
     <App />
-    </div>
+    {/* </div> */}
   </React.StrictMode>,
 )

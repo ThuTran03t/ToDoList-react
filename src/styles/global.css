@@ -10,7 +10,7 @@
   font-family: "Josefin Sans", Helvetica;
 }
 .hero::before {
-  background: linear-gradient(400deg, #088cc0,#caf1eb, #7ecfc3);
+  background: linear-gradient(400deg, #571fd0,#4ea6ee, #b5e0ff);
   content: "";
   width: 100%;
   height: 280px;
